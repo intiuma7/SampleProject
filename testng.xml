@@ -8,7 +8,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="bnkproject.bnktesting"/>
-      
+       <class name="com.pro.tests.Test1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
